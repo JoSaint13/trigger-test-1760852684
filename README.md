@@ -1,2 +1,3 @@
-# trigger-test-1760852684
-Debug test deployment via API
+# Debug Test Project
+
+Generated for debugging purposes.
